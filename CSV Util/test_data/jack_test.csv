@@ -1,0 +1,5 @@
+CUSTOMER_NBR,SUBJECT_ID,EMAIL_ADDR_TXT,EMAIL_GUID_TXT,Unengaged_Users
+fake,fake,fakek@fake.k12.yo.us\,fake-fake-fake-fake-fake,Unengaged_Users
+fake,fake,fake@comcast.net, fake-fake-fake-fake-fake,Unengaged_Users
+fake,fake,fakek@fake.k12.yo.us\,"fake-fake-fake-fake-fake",Unengaged_Users
+fake,fake,fakek@fake.k12.yo.us\,"fake-fake-fake-fake-fake\",Unengaged_Users
